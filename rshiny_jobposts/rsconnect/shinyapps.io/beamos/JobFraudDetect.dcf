@@ -1,0 +1,12 @@
+name: JobFraudDetect
+title: JobFraudDetect
+username:
+account: beamos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2317422
+bundleId: 3162488
+url: https://beamos.shinyapps.io/JobFraudDetect/
+when: 1589818693.76736
+asMultiple: FALSE
+asStatic: FALSE
